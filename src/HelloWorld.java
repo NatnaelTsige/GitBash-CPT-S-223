@@ -6,7 +6,7 @@ public class HelloWorld {
         double celc = 5 * (feran - 32) / 9;
         System.out.println("feran: " + feran + "\n celc" + celc);
     }
-    public static void tempChange(double feran){
+    public static void tempChange2(double feran){
         double celc = 5 * (feran - 32) / 9;
         System.out.println("feran: " + feran + "\n celc" + celc);
     }
